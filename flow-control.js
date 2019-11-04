@@ -1,6 +1,6 @@
 function basicTeenager(age) {
   if (age) {
-    =(13-19)}
+    (13-19)}
     return basicTeenager
   }
 
